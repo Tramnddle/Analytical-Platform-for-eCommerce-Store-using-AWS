@@ -12,4 +12,4 @@ dynamodb_control_table
 
 topic_arn
 	
-	--> <PASTE HERE YOUR OWN TOPIC ARN>
+	--> <tram_ecommerce_sample>
