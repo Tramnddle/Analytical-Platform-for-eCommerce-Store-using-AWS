@@ -3,6 +3,8 @@
 ## Business Overview
 Ecommerce analytics involves gathering data from various sources that influence an online store. This data is used to analyze customer behavior and online shopping trends, covering the entire customer journey—from discovery and acquisition to conversion, retention, and support.
 
+![Architecture Diagram](Architecture Streaming Analytics Ecommerce Platform.jpg)
+
 This project simulates an eCommerce dataset to model user activity, including purchases, product views, cart history, and journey logs. The goal is to build **two analytical pipelines**: **Batch Processing** and **Real-Time Processing**. 
 
 ### **Batch Processing**  
